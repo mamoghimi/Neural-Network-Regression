@@ -14,9 +14,9 @@ This project demonstrates a simple regression task using PyTorch. The model is t
 
 You can install the required packages using:
 
-%```bash
+```bash
 pip install torch matplotlib
-
+```
 
 ## Model Architecture
 The neural network model used in this example has the following structure:
@@ -37,17 +37,17 @@ The training process is visualized, with the regression line updated every 5 epo
 
 How to Run the Code
 1- Clone this repository:
-%```bash
+```bash
 git clone https://github.com/yourusername/your-repo-name.git
-
+```
 2- Navigate to the project directory:
-%```bash
+```bash
 cd your-repo-name
-
+```
 3- Run the script:
-%```bash
+```bash
 python main.py
-
+```
 This will train the model and display a plot showing the regression line fitting the noisy data over time.
 
 # Visualization

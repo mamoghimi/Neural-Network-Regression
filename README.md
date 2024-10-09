@@ -54,4 +54,4 @@ This will train the model and display a plot showing the regression line fitting
 The script uses Matplotlib to visualize the learning process. It plots the original data points and the model's predictions, updating the plot every 5 epochs. The plot includes the current epoch and the loss value displayed as text.
 
 # Example Output
-[YouTube]([https://www.youtube.com/watch?v=T1TfO8YwrF4])
+([https://www.youtube.com/watch?v=T1TfO8YwrF4])

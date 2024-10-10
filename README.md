@@ -36,15 +36,15 @@ The neural network model used in this example has the following structure:
 The training process is visualized, with the regression line updated every 5 epochs.
 
 How to Run the Code
-1- Clone this repository:
+- Clone this repository:
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
 ```
-2- Navigate to the project directory:
+- Navigate to the project directory:
 ```bash
 cd your-repo-name
 ```
-3- Run the script:
+- Run the script:
 ```bash
 python main.py
 ```
